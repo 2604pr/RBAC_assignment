@@ -47,7 +47,7 @@ AuthFlow-Mern-RBAC/
 ### Clone the repository
 
    ```bash
-   git clone https://github.com/YNS-JNS/AuthFlow-Mern-RBAC.git
+   git clone https://github.com/2604pr/RBAC_assignment
    ```
 
 ### Backend Setup
